@@ -1,0 +1,39 @@
+README ASSIGNMENT 2
+
+1)
+    a. Shree Murthy
+	
+    b. 2374658
+	
+    c. shmurthy@chapman.edu
+	
+    d. CPSC 350-03
+	
+    e. Assignment 2
+
+2) Source Files:
+    1. FileProcessor.cpp
+    2. FileProcessor.h
+    3. main.cpp
+    4. Model.cpp
+    5. Model.h
+    6. Translator.cpp
+    7. Translator.h
+    8. TutTranslator.cpp
+    9. TutTranslator.h
+    10. FileProcessorTut.h
+    11. FileProcessorTut.cpp
+
+3) N/A Everything compiled and ran correctly
+
+4) Referred to the Makefile resource on Canvas and the Style Guide
+   Used the following links to understand certain methods: 
+        https://www.w3schools.com/cpp/cpp_files.asp 
+        https://codescracker.com/cpp/program/cpp-program-check-alphabet.htm 
+
+        
+5) Steps:
+    
+	make 
+	
+    ./assignment2.out
